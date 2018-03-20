@@ -630,6 +630,18 @@ footer a:active
 	content: url(../img/turris-logo.svg);
 }
 
+.mv
+{
+	font-size: 0;
+	width: 180px;
+	margin-bottom: 0;
+}
+
+.mv a::before
+{
+	content: url(../img/mv.gif);
+}
+
 .cznic
 {
 	font-size: 0;
