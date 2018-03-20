@@ -639,7 +639,7 @@ footer a:active
 
 .mv a::before
 {
-	content: url(../img/MV_CMYK.gif);
+	content: url(../img/mv_small.png);
 }
 
 .cznic
